@@ -1,0 +1,8 @@
+order_status,orders,pct_of_lost
+shipped,1097,38.08
+unavailable,602,20.9
+canceled,580,20.13
+processing,299,10.38
+invoiced,296,10.27
+created,5,0.17
+approved,2,0.07

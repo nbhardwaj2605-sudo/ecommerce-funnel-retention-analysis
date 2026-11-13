@@ -1,0 +1,3 @@
+seller_group,sellers,orders,pct_of_orders,pct_of_late_orders,pct_of_low_reviews,late_rate
+all other sellers,2881,91828,95.45,88.53,92.53,6.3
+problem seller (late rate >= 2x platform),55,4375,4.55,11.47,7.47,17.12

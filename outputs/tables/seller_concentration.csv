@@ -1,0 +1,4 @@
+threshold_pct_of_late,sellers_needed,total_sellers,pct_of_sellers,pct_of_orders_they_handle
+25,21,2936,0.72,20.83
+50,98,2936,3.34,41.79
+80,398,2936,13.56,69.04

@@ -1,0 +1,6 @@
+feature_group,auc_drop_mean,auc_drop_std
+"Delivery (delay, delivery time, on-time, transit, handling, promise)",0.10890308431292126,0.001635940463097597
+"Basket (items, sellers, value, freight, payment)",0.07410914406579094,0.0021259867064096
+"Seller history (past late / low-review rate, volume)",0.03325145516268395,0.003144141930027805
+Product category,0.004105196221959551,0.00014146094243430092
+"Geography (customer / seller state, same state)",0.0016536000212690194,0.0003787422563557057

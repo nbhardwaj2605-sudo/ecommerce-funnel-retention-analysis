@@ -1,0 +1,6 @@
+transition,orders,avg_days,median_days,p90_days
+placed → approved,96197,0.43,0.01,1.44
+approved → shipped,94845,2.82,1.84,5.99
+shipped → delivered,96183,9.34,7.1,18.91
+delivered → review answered,90912,3.56,2.02,5.46
+placed → delivered (total),96203,12.54,10.21,23.06

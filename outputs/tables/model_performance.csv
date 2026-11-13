@@ -1,0 +1,5 @@
+feature_set,model,roc_auc,pr_auc,base_rate
+all features,logistic_regression,0.725,0.302,0.1
+all features,random_forest,0.722,0.331,0.1
+without delivery-outcome features,logistic_regression,0.657,0.215,0.1
+without delivery-outcome features,random_forest,0.657,0.211,0.1
